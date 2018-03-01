@@ -7,15 +7,15 @@ Same as class guide.
 example:
 functionName and ClassName
 ### Examples
-* interfaces
-* classes
-* exception types
-* fields
-* methods
-* parameters
-* local variables
-* instance constants
-* class constants
+* interfaces -- UpperCamelCase
+* classes -- UpperCamelCase
+* exception types -- UpperCamelCaseException
+* fields -- lowerCamelCase
+* methods   -- lowerCamelCase
+* parameters   -- lowerCamelCase
+* local variables  -- lowerCamelCase
+* instance constants  -- All caps ---- VARIABLENAME
+* class constants   --- All Caps: CONSTANTNAME
 
 ## Commenting style for public and private members of a class or interface:
 
