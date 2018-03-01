@@ -1,11 +1,11 @@
 # X-Team NN Style Guide
-
+We will use the CS300 course style guide (Gary's style guide).  http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/
 <brief description of your team's opinion or philosophy regarding Style Guides>
 
 ## Naming conventions
-
-<brief statement describing your team's naming conventions>
-
+Same as class guide.
+example:
+functionName and ClassName
 ### Examples
 * interfaces
 * classes
@@ -19,13 +19,13 @@
 
 ## Commenting style for public and private members of a class or interface:
 
-The same as the one in this guide: http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/
+commenting would also be same as cs300 style guide. 
 
 ### Examples
 
-* classes
-* fields
-* constructors
+* classes   -- class introduction comment
+* fields   -- short explaination
+* constructors  
 * methods
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
