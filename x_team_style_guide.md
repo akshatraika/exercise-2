@@ -14,8 +14,8 @@ functionName and ClassName
 * methods   -- lowerCamelCase
 * parameters   -- lowerCamelCase
 * local variables  -- lowerCamelCase
-* instance constants  -- All caps ---- VARIABLENAME
-* class constants   --- All Caps: CONSTANTNAME
+* instance constants  -- All caps ---- VARIABLE_NAME
+* class constants   --- All Caps: CONSTANT_NAME
 
 ## Commenting style for public and private members of a class or interface:
 
