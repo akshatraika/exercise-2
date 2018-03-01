@@ -19,7 +19,7 @@
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+The same as the one in this guide: http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/
 
 ### Examples
 
