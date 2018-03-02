@@ -1,6 +1,38 @@
 # X-Team 15 Style Guide
 We will use the CS300 course style guide (Gary's style guide) because we believe it is straightforward and will be valuable to allow us to have uniform code and to communicate the functionality with each other.  http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/
 
+**##Source Files**
+File Name
+The source file name consists of the case-sensitive name of the top-level class it contains (of which there is exactly one), plus the .java extension.
+
+File Encoding: UTF-8
+Source files are encoded in UTF-8.
+
+File Organization -
+Each source file consists of, in order:
+
+A file header comment in exactly the following form:
+//////////////////// ALL ASSIGNMENTS INCLUDE THIS SECTION /////////////////////
+//
+// Title:           (descriptive title of the program making use of this file)
+// Files:           (a list of all source files used by that program)
+// Course:          (course number, term, and year)
+//Team Number:      (X 15)
+// Author:          (all memebrs' name)
+// Email:           (all members' @wisc.edu email address)
+// Lecturer's Name: (name of our lecturer)
+//
+//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
+All import statements (if any are needed).  Wildcard imports are not used.
+Exactly one top-level class (with appropriate javadoc documentation).  The contents of this class may be ordered in a logical fashion of your choosing.
+… with exactly one blank line separating each section that is present
+
+**##Layout:**
+4 spaces indentation.
+Include a line break after the opening brace.
+Include a line break before the closing brace.
+Do not group parentheses
+use capitol letters for long, unsigned etc extensions 
 ## Naming conventions
 Same as class guide.
 example:
@@ -19,7 +51,11 @@ functionName and ClassName
 ## Commenting style for public and private members of a class or interface:
 
 commenting would also be same as cs300 style guide. 
-
+Use 
+/*
+*
+*/
+for long comments and // for short comments.
 ### Examples
 
 * classes  
