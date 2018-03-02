@@ -1,5 +1,5 @@
 # X-Team 15 Style Guide
-We will use the CS300 course style guide (Gary's style guide).  http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/
+We will use the CS300 course style guide (Gary's style guide) because we believe it is straightforward and will be valuable to allow us to have uniform code and to communicate the functionality with each other.  http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/
 
 ## Naming conventions
 Same as class guide.
