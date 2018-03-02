@@ -24,6 +24,7 @@ commenting would also be same as cs300 style guide.
 ### Examples
 
 * classes  
+```java
 /** 
  * The HelloWorldApp class implements an application that
  * simply displays "Hello World!" to the standard output.
@@ -33,11 +34,13 @@ class HelloWorldApp {
         System.out.println("Hello World!"); //Display the string.
     }
 }
+   ```
 * fields   -- short explaination
+```java
  //Keeps track of all usernames in the system.   
 private List<String> usernames = new ArrayList<>();
 * constructors  
- 
+ ```java
 /** Default Constructor.
  *  The default behaviour of this object is
  *  <ul>
@@ -47,8 +50,9 @@ private List<String> usernames = new ArrayList<>();
  */
 public MyObject() {
 }
- 
+ ```
 * methods
+```java
 /**
  * Returns an Image object that can then be painted on the screen. 
  * The url argument must specify an absolute {@link URL}. The name
@@ -71,4 +75,4 @@ public MyObject() {
             return null;
         }
  }
-
+```
